@@ -1,0 +1,180 @@
+[28-Sep-2021 03:32:27 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:32:27 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:32:27 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:32:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function login() in /home1/pgame1qs/public_html/user/login.php:46
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/login.php on line 46
+[28-Sep-2021 03:32:34 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:32:34 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:32:34 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:33:00 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:33:00 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:33:00 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:33:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function login() in /home1/pgame1qs/public_html/user/login.php:46
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/login.php on line 46
+[28-Sep-2021 03:33:04 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:33:04 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:33:04 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:33:58 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:33:58 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:33:58 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:33:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function login() in /home1/pgame1qs/public_html/user/login.php:46
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/login.php on line 46
+[28-Sep-2021 03:34:35 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:34:35 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:34:35 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:34:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function login() in /home1/pgame1qs/public_html/user/login.php:46
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/login.php on line 46
+[28-Sep-2021 03:35:15 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:35:15 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:35:15 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/login.php on line 4
+[28-Sep-2021 03:35:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function login() in /home1/pgame1qs/public_html/user/login.php:46
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/login.php on line 46
+[28-Sep-2021 17:44:10 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:10 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:10 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:10 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:10 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:10 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:10 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:10 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:10 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:13 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:13 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:13 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:24 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:24 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:24 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateDateOfBirth() in /home1/pgame1qs/public_html/user/register.php:70
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/register.php on line 70
+[28-Sep-2021 17:44:31 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:31 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:31 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateDateOfBirth() in /home1/pgame1qs/public_html/user/register.php:70
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/register.php on line 70
+[28-Sep-2021 17:44:31 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:31 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:31 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateDateOfBirth() in /home1/pgame1qs/public_html/user/register.php:70
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/register.php on line 70
+[28-Sep-2021 17:44:31 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:31 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:31 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateDateOfBirth() in /home1/pgame1qs/public_html/user/register.php:70
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/register.php on line 70
+[28-Sep-2021 17:44:32 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:32 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:32 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateDateOfBirth() in /home1/pgame1qs/public_html/user/register.php:70
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/register.php on line 70
+[28-Sep-2021 17:44:32 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:32 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:32 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateDateOfBirth() in /home1/pgame1qs/public_html/user/register.php:70
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/register.php on line 70
+[28-Sep-2021 17:44:32 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:32 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:32 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateDateOfBirth() in /home1/pgame1qs/public_html/user/register.php:70
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/register.php on line 70
+[28-Sep-2021 17:44:33 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:33 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:33 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateDateOfBirth() in /home1/pgame1qs/public_html/user/register.php:70
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/register.php on line 70
+[28-Sep-2021 17:44:33 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:33 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:33 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateDateOfBirth() in /home1/pgame1qs/public_html/user/register.php:70
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/register.php on line 70
+[28-Sep-2021 17:44:33 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:33 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:33 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateDateOfBirth() in /home1/pgame1qs/public_html/user/register.php:70
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/register.php on line 70
+[28-Sep-2021 17:44:34 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:34 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:34 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateDateOfBirth() in /home1/pgame1qs/public_html/user/register.php:70
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/register.php on line 70
+[28-Sep-2021 17:44:34 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:34 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:34 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateDateOfBirth() in /home1/pgame1qs/public_html/user/register.php:70
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/register.php on line 70
+[28-Sep-2021 17:44:34 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:34 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:34 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:44:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateDateOfBirth() in /home1/pgame1qs/public_html/user/register.php:70
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/register.php on line 70
+[28-Sep-2021 17:46:07 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:46:07 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:46:07 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:46:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateDateOfBirth() in /home1/pgame1qs/public_html/user/register.php:70
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/register.php on line 70
+[28-Sep-2021 17:46:23 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:46:23 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:46:23 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/register.php on line 20
+[28-Sep-2021 17:46:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateDateOfBirth() in /home1/pgame1qs/public_html/user/register.php:70
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/register.php on line 70
+[28-Sep-2021 17:48:00 UTC] PHP Warning:  include(inc/email.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 95
+[28-Sep-2021 17:48:00 UTC] PHP Warning:  include(inc/email.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/register.php on line 95
+[28-Sep-2021 17:48:00 UTC] PHP Warning:  include(): Failed opening 'inc/email.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/register.php on line 95
+[28-Sep-2021 17:48:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sendVerificationEmail() in /home1/pgame1qs/public_html/user/register.php:96
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/register.php on line 96
+[28-Sep-2021 18:03:20 UTC] PHP Warning:  include_once(inc/email.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/verify_account.php on line 33
+[28-Sep-2021 18:03:20 UTC] PHP Warning:  include_once(): Failed opening 'inc/email.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/verify_account.php on line 33
+[28-Sep-2021 18:03:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sendVerificationEmail() in /home1/pgame1qs/public_html/user/verify_account.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/verify_account.php on line 34
+[28-Sep-2021 18:05:17 UTC] PHP Warning:  include_once(inc/email.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/verify_account.php on line 33
+[28-Sep-2021 18:05:17 UTC] PHP Warning:  include_once(): Failed opening 'inc/email.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/verify_account.php on line 33
+[28-Sep-2021 18:05:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sendVerificationEmail() in /home1/pgame1qs/public_html/user/verify_account.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/pgame1qs/public_html/user/verify_account.php on line 34
+[28-Sep-2021 18:14:40 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/verify_account.php on line 88
+[28-Sep-2021 18:14:40 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home1/pgame1qs/public_html/user/verify_account.php on line 88
+[28-Sep-2021 18:14:40 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/pgame1qs/public_html/user/verify_account.php on line 88
